@@ -19,10 +19,6 @@ array.push('Laranja', 'Jabuticaba');
 console.log('Array após o push: ' + array);
 
 
-
-
-
-
 // Array.shift() - remove o primeiro elemento do array
 // Retorno: O elemento removido
 
